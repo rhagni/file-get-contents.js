@@ -1,0 +1,19 @@
+{
+	"name": "file-get-contents",
+	"version": "1.0.0",
+	"description": "A Node.js version of file_get_contents PHP function",
+	"main": "index.js",
+	"scripts": {
+		"test": "xo"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rhagni/fileGetContents.js.git"
+	},
+	"author": "Rhagni Oliveira <rhagni@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/rhagni/fileGetContents.js/issues"
+	},
+	"homepage": "https://github.com/rhagni/fileGetContents.js#readme"
+}
